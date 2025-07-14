@@ -1,0 +1,13 @@
+{
+  "name": "telegram-multibot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "dotenv": "^16.3.1"
+  }
+}
